@@ -1,0 +1,17 @@
+{
+  "versao": "2.5.0",
+  "data": "2026-10-30",
+  "notas": "Correções e melhorias.",
+  "ficheiros": {
+    "windows": {
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.5.0/HC-Gestao-Stocks-Setup-2.5.0.exe",
+      "sha256": "5dacf8439a19a88d5d751160180f990c372bcc54b003f8279ea8ae7d1abdba62",
+      "tamanho": 62715325
+    },
+    "debian": {
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.5.0/hc-gestao-stocks_2.5.0_amd64.deb",
+      "sha256": "a4760c3bf84d9bb9f3d2976129daf5e02b53e50dd1cb9477de958799d7533087",
+      "tamanho": 32522040
+    }
+  }
+}
