@@ -1,17 +1,17 @@
 {
-  "versao": "2.5.0",
+  "versao": "2.6.1",
   "data": "2026-10-30",
-  "notas": "Correções e melhorias.",
+  "notas": "Identidade visual HCsoftware.",
   "ficheiros": {
     "windows": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.5.0/HC-Gestao-Stocks-Setup-2.5.0.exe",
-      "sha256": "5dacf8439a19a88d5d751160180f990c372bcc54b003f8279ea8ae7d1abdba62",
-      "tamanho": 62715325
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.1/HC-Gestao-Stocks-Setup-2.6.1.exe",
+      "sha256": "f4e89840a5cbeb13b69bcb742d2f144f4057c8d5ca6b9c03b2da24485d51dd80",
+      "tamanho": 62749445
     },
     "debian": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.5.0/hc-gestao-stocks_2.5.0_amd64.deb",
-      "sha256": "a4760c3bf84d9bb9f3d2976129daf5e02b53e50dd1cb9477de958799d7533087",
-      "tamanho": 32522040
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.1/hc-gestao-stocks_2.6.1_amd64.deb",
+      "sha256": "fe7f0f2a3d658c560f3658c49dfd08601008d62add99fc6eb4ec1bf0815029ec",
+      "tamanho": 32556684
     }
   }
 }
