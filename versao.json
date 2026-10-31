@@ -1,17 +1,17 @@
 {
-  "versao": "2.6.7",
+  "versao": "2.6.8",
   "data": "2026-10-31",
-  "notas": "Aviso de atualização indica que os dados são mantidos; salvaguarda de elevação (UAC).",
+  "notas": "No Debian a aplicação fecha após abrir o pacote, para a instalação concluir.",
   "ficheiros": {
     "windows": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.7/HC-Gestao-Stocks-Setup-2.6.7.exe",
-      "sha256": "2a12d4c73cf2975fe031c6738731e099aab6cdfdcb1fb0836d1c42885c178ced",
-      "tamanho": 62755875
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.8/HC-Gestao-Stocks-Setup-2.6.8.exe",
+      "sha256": "cdb3f4f1968bc7a85ab9b40f99b733d8543d8d9d4d7b3d93bfb59cb9f6eb40f0",
+      "tamanho": 62753772
     },
     "debian": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.7/hc-gestao-stocks_2.6.7_amd64.deb",
-      "sha256": "e40c72513dd5c2a386c403a562a144f2a442aa49394a96601b114c782c7d3b6a",
-      "tamanho": 32558800
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.8/hc-gestao-stocks_2.6.8_amd64.deb",
+      "sha256": "a066b64478ad5934a21fbd53fa44bf01f884bef60d1dcc20c40ecd070d6f2045",
+      "tamanho": 32558708
     }
   }
 }
