@@ -1,17 +1,17 @@
 {
-  "versao": "2.6.9",
+  "versao": "2.6.10",
   "data": "2026-10-31",
-  "notas": "Contactos de apoio (email e telefone) no ecrã Sobre e no início de sessão.",
+  "notas": "Página Sobre no menu lateral, com contactos de apoio.",
   "ficheiros": {
     "windows": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.9/HC-Gestao-Stocks-Setup-2.6.9.exe",
-      "sha256": "3719e19434ab2684c455ed3b941de80cd8a2604d52d36dc7bcc8cd97bdbadb53",
-      "tamanho": 62763489
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.10/HC-Gestao-Stocks-Setup-2.6.10.exe",
+      "sha256": "1e2b59dd556c7f289c2bb8bae4af2ec16a2b9940ca3025d48a7a729eaefcbd60",
+      "tamanho": 62752722
     },
     "debian": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.9/hc-gestao-stocks_2.6.9_amd64.deb",
-      "sha256": "e225c2feba35e05278c10e8c6c7e1ef5746b32d32fc56bfb8375a0fa83d17651",
-      "tamanho": 32553882
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.10/hc-gestao-stocks_2.6.10_amd64.deb",
+      "sha256": "4815c303d2e4b6fe9fe464fccb55b18cc2dace9fcf5fe25d2f424fc4e549cd75",
+      "tamanho": 32561398
     }
   }
 }
