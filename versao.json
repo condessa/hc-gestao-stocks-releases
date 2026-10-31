@@ -1,17 +1,17 @@
 {
-  "versao": "2.6.6",
+  "versao": "2.6.7",
   "data": "2026-10-31",
-  "notas": "Atualização silenciosa com reabertura automática da aplicação.",
+  "notas": "Aviso de atualização indica que os dados são mantidos; salvaguarda de elevação (UAC).",
   "ficheiros": {
     "windows": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.6/HC-Gestao-Stocks-Setup-2.6.6.exe",
-      "sha256": "f0ff2bf0d89e19d76984a9f24db32870996e7717a3ce6c19545a771b1f1ef8c3",
-      "tamanho": 62751331
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.7/HC-Gestao-Stocks-Setup-2.6.7.exe",
+      "sha256": "2a12d4c73cf2975fe031c6738731e099aab6cdfdcb1fb0836d1c42885c178ced",
+      "tamanho": 62755875
     },
     "debian": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.6/hc-gestao-stocks_2.6.6_amd64.deb",
-      "sha256": "afc69066a64440f1c5945950834e6b786349231bf89268839e079aec0c66bd4d",
-      "tamanho": 32560756
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.7/hc-gestao-stocks_2.6.7_amd64.deb",
+      "sha256": "e40c72513dd5c2a386c403a562a144f2a442aa49394a96601b114c782c7d3b6a",
+      "tamanho": 32558800
     }
   }
 }
