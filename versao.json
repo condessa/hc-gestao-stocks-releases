@@ -1,17 +1,17 @@
 {
-  "versao": "2.6.8",
+  "versao": "2.6.9",
   "data": "2026-10-31",
-  "notas": "No Debian a aplicação fecha após abrir o pacote, para a instalação concluir.",
+  "notas": "Contactos de apoio (email e telefone) no ecrã Sobre e no início de sessão.",
   "ficheiros": {
     "windows": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.8/HC-Gestao-Stocks-Setup-2.6.8.exe",
-      "sha256": "cdb3f4f1968bc7a85ab9b40f99b733d8543d8d9d4d7b3d93bfb59cb9f6eb40f0",
-      "tamanho": 62753772
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.9/HC-Gestao-Stocks-Setup-2.6.9.exe",
+      "sha256": "3719e19434ab2684c455ed3b941de80cd8a2604d52d36dc7bcc8cd97bdbadb53",
+      "tamanho": 62763489
     },
     "debian": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.8/hc-gestao-stocks_2.6.8_amd64.deb",
-      "sha256": "a066b64478ad5934a21fbd53fa44bf01f884bef60d1dcc20c40ecd070d6f2045",
-      "tamanho": 32558708
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.9/hc-gestao-stocks_2.6.9_amd64.deb",
+      "sha256": "e225c2feba35e05278c10e8c6c7e1ef5746b32d32fc56bfb8375a0fa83d17651",
+      "tamanho": 32553882
     }
   }
 }
