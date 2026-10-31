@@ -1,17 +1,17 @@
 {
-  "versao": "2.6.3",
+  "versao": "2.6.4",
   "data": "2026-10-31",
-  "notas": "Logótipo personalizável na barra superior.",
+  "notas": "Logótipo da organização na barra superior, antes do nome.",
   "ficheiros": {
     "windows": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.3/HC-Gestao-Stocks-Setup-2.6.3.exe",
-      "sha256": "5f265bdafe8fee2097ce9690ca27572d422a9db8497580da103ab3824be7a537",
-      "tamanho": 62754672
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.4/HC-Gestao-Stocks-Setup-2.6.4.exe",
+      "sha256": "5414168160ee9092a8413910f915d92d659b16a6fb5729b178fccfa2a6eff6b8",
+      "tamanho": 62737663
     },
     "debian": {
-      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.3/hc-gestao-stocks_2.6.3_amd64.deb",
-      "sha256": "08ad108f6bb44a95134bf3928bb8c751b247ca75ca3a4d025f3a57ff57f200ea",
-      "tamanho": 32562654
+      "url": "https://github.com/condessa/hc-gestao-stocks-releases/releases/download/2.6.4/hc-gestao-stocks_2.6.4_amd64.deb",
+      "sha256": "5b1f8244ebf316f8d19e45d3252531319e457af199e96f4edfbc9089019c362f",
+      "tamanho": 32564330
     }
   }
 }
